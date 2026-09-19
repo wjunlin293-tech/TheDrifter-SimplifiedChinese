@@ -4,9 +4,13 @@
 
 全部 **9803 条**游戏文本，含剧情对白、物品描述、线索板、菜单与成就。
 
+> **适用版本**：Steam `Default Public Version`（buildid **22758595**，2026-04-13 更新）
+> 补丁带文件校验，版本不符会直接拒绝安装，不会损坏游戏。
+> 若你的版本不同，欢迎开 issue 告知，我会补上对应版本的补丁。
+
 ## 安装
 
-1. 到 [Releases](../../releases) 下载最新的 `TheDrifter-SC-vX.X.zip`
+1. 到 [Releases](https://github.com/wjunlin293-tech/TheDrifter-SimplifiedChinese/releases) 下载最新的 `TheDrifter-SC-vX.X.zip`
 2. 解压，**完全退出游戏**
 3. 双击 `安装.bat`
 4. 启动游戏；如果还是英文，去 `Options → Language` 选「简体中文」
