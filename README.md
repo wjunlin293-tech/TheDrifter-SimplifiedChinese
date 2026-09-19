@@ -4,9 +4,21 @@
 
 全部 **9803 条**游戏文本，含剧情对白、物品描述、线索板、菜单与成就。
 
-> **适用版本**：Steam `Default Public Version`（buildid **22758595**，2026-04-13 更新）
+> **适用版本**：Steam `Default Public Version`（游戏内版本 **v1.1.5**，buildid **22758595**，2026-04-13 更新）
 > 补丁带文件校验，版本不符会直接拒绝安装，不会损坏游戏。
 > 若你的版本不同，欢迎开 issue 告知，我会补上对应版本的补丁。
+
+![主菜单](docs/images/01-main-menu.png)
+
+<table>
+<tr>
+<td><img src="docs/images/02-boxcar.png" alt="游戏内对白"></td>
+<td><img src="docs/images/03-monologue.png" alt="旁白独白"></td>
+</tr>
+</table>
+
+![实机演示](docs/images/demo.gif)
+
 
 ## 安装
 
