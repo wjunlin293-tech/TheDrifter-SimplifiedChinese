@@ -1,0 +1,8 @@
+# 全仓库禁用换行符自动转换：translation.csv 与补丁文件必须逐字节保持原样
+* -text
+
+# 明确标记为二进制，避免 diff 时输出乱码
+*.delta binary
+*.dll   binary
+*.exe   binary
+*.csv   binary

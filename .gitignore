@@ -1,0 +1,23 @@
+# 绝不提交游戏本体文件
+*.assets
+Assembly-CSharp*.dll
+UnityEngine*.dll
+mscorlib.dll
+netstandard.dll
+TheDrifter.exe
+*.sav
+
+# 构建产物与中间文件
+work/
+build/
+__pycache__/
+*.pyc
+decomp/
+fonts_orig/
+fonts_cn/
+patched/
+
+# 例外：这些是补丁包必需、且是本项目原创或差分
+!patch/CjkWrap.dll
+!patch/*.delta
+!patch/BinDelta.exe
